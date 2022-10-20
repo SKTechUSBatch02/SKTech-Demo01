@@ -1,0 +1,10 @@
+This is new file and having some project details 
+ProjectName:
+ProjectTitle:
+Teams:
+Technologies:
+Tools:
+SkillSets:
+Resources:
+Allowances:
+ProjectCode:
